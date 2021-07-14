@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 You can call me Erick
+### Hi there 👋 You can call me Erick
 
 - 🔭 I’m currently working on: Building my portfolio with React
 - 🌱 I’m currently learning: React.js
@@ -9,4 +9,4 @@
 - 😄 Pronouns: they/he/she
 - ⚡ Fun fact: My cat's name is Cow.
 
- -->
+
